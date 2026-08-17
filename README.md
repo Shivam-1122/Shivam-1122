@@ -17,9 +17,7 @@
 I'm a **B.Tech Computer Engineering student** who enjoys turning ideas into real-world applications.
 
 * 📱 Flutter Developer focused on clean and intuitive applications
-* 🌐 Exploring Full-Stack Development
 * 🤖 Currently learning **Machine Learning & AI**
-* ☁️ Exploring backend, cloud and deployment
 * 🏆 **1st Place — AMD Slingshot Ideathon**
 * 🚀 Learn by building, experimenting and solving real problems
 * 💡 Always curious about new technologies
@@ -42,12 +40,6 @@ I'm a **B.Tech Computer Engineering student** who enjoys turning ideas into real
   <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" />
 </p>
 
-### 🌐 Web & Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase" />
-</p>
-
 ### 🤖 AI & Data
 
 <p>
@@ -59,10 +51,10 @@ I'm a **B.Tech Computer Engineering student** who enjoys turning ideas into real
   NumPy • Pandas • Matplotlib • Scikit-Learn • Firebase • Cloudinary
 </p>
 
-### ☁️ Tools & Platforms
+### 🔧 Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,googlecloud" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
@@ -83,7 +75,6 @@ MedFlow AI is an AI-powered hospital management platform designed to simplify he
 * 🏥 Hospital management features
 * 🔐 Firebase authentication
 * ⚡ Real-time data management
-* ☁️ Google Cloud Run deployment
 * 🎨 Modern and responsive interface
 
 ### 🔧 Tech Stack
@@ -104,7 +95,6 @@ A fitness application that combines running challenges, rewards and Web3 concept
 * 💰 Reward & staking concept
 * 🔗 Smart contract integration
 * 📱 Cross-platform Flutter application
-* ☁️ Cloud-based services
 
 ### 🔧 Tech Stack
 
@@ -134,36 +124,13 @@ A Flutter application focused on discovering products, deals and offers from dif
 
 # 🌱 Currently Exploring
 
-<p align="center">
-
 ```text
        Flutter & App Development
-                  ↓
-          Backend Development
-                  ↓
-            Cloud & DevOps
                   ↓
           Machine Learning
                   ↓
            Deep Learning
-                  ↓
-        Generative AI & RAG
 ```
-
-</p>
-
----
-
-# 🎯 2026 Goals
-
-* 🚀 Build more production-quality applications
-* 📱 Become stronger in Flutter & application architecture
-* 🌐 Master backend development
-* 🤖 Build practical AI/ML applications
-* ☁️ Learn more about cloud & deployment
-* 🌍 Contribute to Open Source
-* 💡 Turn more ideas into real products
-* 💼 Become internship & placement ready
 
 ---
 
