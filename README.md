@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/Shivam-1122">
-    <img src="https://komarev.com/ghpvc/?username=Shivam-1122&style=for-the-badge&color=36BCF7" />
+    <img src="https://komarev.com/ghpvc/?username=Shivam-1122&style=for-the-badge&color=36BCF7" alt="Profile Views" />
   </a>
 </p>
 
@@ -16,11 +16,11 @@
 
 I'm a **B.Tech Computer Engineering student** who enjoys turning ideas into real-world applications.
 
-* 📱 Flutter Developer focused on clean and intuitive applications
-* 🤖 Currently learning **Machine Learning & AI**
-* 🏆 **1st Place — AMD Slingshot Ideathon**
-* 🚀 Learn by building, experimenting and solving real problems
-* 💡 Always curious about new technologies
+- 📱 Flutter Developer focused on clean and intuitive applications
+- 🤖 Exploring **Machine Learning, AI & Generative AI**
+- 🏆 **1st Place — AMD Slingshot Ideathon**
+- 🚀 Building, experimenting and solving real-world problems
+- 💡 Always curious about new technologies
 
 > **Build. Break. Learn. Repeat.**
 
@@ -28,147 +28,126 @@ I'm a **B.Tech Computer Engineering student** who enjoys turning ideas into real
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,dart,javascript,sql" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,dart,javascript,typescript,flutter,react,nextjs,firebase,tensorflow,git,github,vscode" alt="Tech Stack" />
 </p>
 
-### 📱 Mobile Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" />
-</p>
-
-### 🤖 AI & Data
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow" />
-</p>
-
-<p>
-  <b>Libraries & Tools:</b>
-  NumPy • Pandas • Matplotlib • Scikit-Learn • Firebase • Cloudinary
-</p>
-
-### 🔧 Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<p align="center">
+  <code>FastAPI</code> •
+  <code>Qdrant</code> •
+  <code>Google Gemini</code> •
+  <code>OpenAI</code> •
+  <code>Groq</code> •
+  <code>YOLOv8</code> •
+  <code>NumPy</code> •
+  <code>Pandas</code> •
+  <code>Scikit-Learn</code> •
+  <code>Cloudinary</code>
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🏥 MedFlow AI
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### AI-Powered Hospital Management Platform
+### 🧠 Neuron
+
+**AI Memory Assistant**
+
+Multimodal AI system designed as an external memory assistant, combining computer vision, vector search and LLMs for contextual assistance.
+
+**Tech:**  
+`Python` `FastAPI` `React` `Qdrant` `YOLOv8` `LLMs`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🏥 MedFlow AI
+
+**AI Healthcare Management Platform**
 
 🏆 **1st Place — AMD Slingshot Ideathon**
 
-MedFlow AI is an AI-powered hospital management platform designed to simplify healthcare workflows and provide intelligent assistance.
+AI-powered healthcare platform with role-based dashboards, real-time data and intelligent assistance.
 
-### ✨ Highlights
+**Tech:**  
+`Next.js` `React` `Firebase` `Firestore` `Gemini`
 
-* 🤖 AI-powered symptom checker & chatbot
-* 🏥 Hospital management features
-* 🔐 Firebase authentication
-* ⚡ Real-time data management
-* 🎨 Modern and responsive interface
+</td>
+</tr>
 
-### 🔧 Tech Stack
+<tr>
+<td width="50%" valign="top">
 
-`Firebase` `Google AI` `Cloud Run` `AI` `Web`
+### 🏃 Run2Earn
 
----
+**Gamified Fitness & Web3 Platform**
 
-## 🏃 Run2Earn
+Fitness platform combining GPS tracking, real-time multiplayer matches, rewards and smart contracts.
 
-### Gamified Fitness Platform
+**Tech:**  
+`Flutter` `Firebase` `Solidity` `Hardhat` `MetaMask`
 
-A fitness application that combines running challenges, rewards and Web3 concepts.
+</td>
 
-### ✨ Highlights
+<td width="50%" valign="top">
 
-* 🏃 Running-based challenges
-* 💰 Reward & staking concept
-* 🔗 Smart contract integration
-* 📱 Cross-platform Flutter application
+### 🛍️ SnatchTheDeal
 
-### 🔧 Tech Stack
+**Deal Discovery & Affiliate Marketplace**
 
-`Flutter` `Firebase` `Solidity` `Hardhat` `Cloudinary`
+Flutter application for discovering products, offers and featured deals across different platforms.
 
----
-
-## 🛍️ SnatchTheDeal
-
-### Deal Discovery & Affiliate Marketplace
-
-A Flutter application focused on discovering products, deals and offers from different platforms.
-
-### ✨ Highlights
-
-* 🛒 Product & deal discovery
-* 🔥 Featured deals
-* 📊 Firestore-based product management
-* 📱 Cross-platform Flutter UI
-* ⚡ Dynamic deal listings
-
-### 🔧 Tech Stack
-
+**Tech:**  
 `Flutter` `Firebase` `Firestore`
 
----
-
-# 🌱 Currently Exploring
-
-```text
-       Flutter & App Development
-                  ↓
-          Machine Learning
-                  ↓
-           Deep Learning
-```
+</td>
+</tr>
+</table>
 
 ---
 
-# 🏆 Achievements
+## 🏆 Achievement
 
-### 🥇 AMD Slingshot Ideathon
+🥇 **1st Place — AMD Slingshot Ideathon**
 
-**1st Place Winner**
+Built **MedFlow AI**, an AI-powered healthcare management platform focused on improving hospital workflows.
 
-Built **MedFlow AI**, an AI-powered hospital management solution designed to improve healthcare workflows using AI.
+---
+
+## 🌱 Currently Exploring
+
+**Flutter & App Development** → **Machine Learning** → **Deep Learning** → **Generative AI & Agents**
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shivam-1122&theme=tokyonight" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shivam-1122&theme=tokyonight" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shivam-1122&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shivam-1122&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shivam-1122&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=Shivam-1122&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://github.com/Shivam-1122">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/shivam-vashistha-187355330/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
+  <a href="https://github.com/Shivam-1122">
+    <img src="https://img.shields.io/badge/GitHub-Shivam--1122-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/shivam-vashistha-187355330/">
+    <img src="https://img.shields.io/badge/LinkedIn-Shivam%20Vashistha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
@@ -179,8 +158,8 @@ Built **MedFlow AI**, an AI-powered hospital management solution designed to imp
 
 ⭐ **Thanks for visiting my profile!**
 
-<br>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer"/>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" alt="Footer" />
 </p>
